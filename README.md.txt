@@ -15,7 +15,7 @@ Xampp
 
 
 Instalasi Development Tools :
--Dobel klik file XAMPP, nanti selanjutnya akan muncul jendela ìinstaller languageî seperti di bawah ini:
+-Dobel klik file XAMPP, nanti selanjutnya akan muncul jendela ‚Äúinstaller language‚Äù seperti di bawah ini:
 -Selanjutnya pilih bahasa. Pilih yang Bahasa Inggris (English). Klik OK.
 -Kadang pada proses ini muncul pesan error. Jika ada, abaikan saja dan lanjutkan dengan klik OK dan YES.
 -Berikutnya akan muncul jendela yang isinya meminta Anda menutup semua aplikasi yang sedang berjalan. Jika semua aplikasi sudah ditutup, maka klik tombol Next.
@@ -33,3 +33,7 @@ Cara Menjalankan :
 
 Lisensi
 https://webhostmu.com/cara-instal-xampp/
+-----------------------------------
+28 Mei 2018
+Mendesain tampilan aplikasi
+-----------------------------------
